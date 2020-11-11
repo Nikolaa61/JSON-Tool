@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"naziv": "student",
+		"ime": "pera",
+		"Coban":{ 
+			"id":3,
+			"naziv":"asa",
+			"ostalo":"nista"
+		}
+	},
+	{
+		"id": 2,
+		"naziv": "predmet",
+		"predmet": "OOP",
+		"kuvarica":"smiljka"
+	}
+]
